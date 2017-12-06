@@ -12,5 +12,6 @@ After some promising electrical proof of concept tests this software was written
 The very first CATLIS version controlled a self made box which was connected to the PC parallel port and
 received commands like an old Centronics printer. This box generated 0 to -10V on 16 channels to control the
 dim packs.  
-Later on in 1993 newer dim packs with a DMX interface were bought togehter with a DMX controller, connected to the parallel port as well (no USB that time).
-So CATLIS was slightly modified for driving the DMX controller.
+Later on in 1993 newer dim packs with a DMX interface were bought togehter with a DMX controller, connected to the parallel port as well (no USB that time).  
+So CATLIS was slightly modified for driving the DMX controller.  
+This (unmodified) version has been the work horse of the Mittwoch:Theatre then for over **20 years** until it was lately replaced by a Grandma2 - a worthy successor!
